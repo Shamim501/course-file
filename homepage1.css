@@ -1,0 +1,11 @@
+.he{
+    color: rgb(9, 218, 96);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flexx{
+
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+}

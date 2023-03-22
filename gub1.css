@@ -1,0 +1,44 @@
+.img1{
+
+    margin-top: 1%;
+
+}
+.he{
+    color: rgb(9, 218, 96);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inp{
+    display: block;
+    width: 25%;
+    margin: 20px;
+    
+  padding: 10px;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  border: 1px solid rgb(167, 220, 233);
+  border-radius: 10px;
+  transition: background-color 0.3s ease-out;
+}
+.inp:hover{
+
+    background-color: rgb(213, 234, 243);
+}
+
+.button1{
+
+
+padding: 7px;
+padding-left: 160px;
+padding-right: 160px;
+border-radius: 10px;
+cursor: pointer;
+border: 1px solid rgb(107, 193, 214);
+background: rgb(57, 209, 230);
+font-size: 20px;
+transition: background-color 0.5s ease-out;
+color: aliceblue;
+}
+
+.button1:hover{
+    background-color: rgb(4, 110, 75);
+}
